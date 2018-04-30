@@ -6,6 +6,9 @@
 
 ## Screenshots
 
+![alt text](https://raw.githubusercontent.com/BLRussell-09/Translator/master/screenshots/Translation%20Station.png "Translator")
+
+
 ## Fire It Up
 
 > Serve up the site and load the page
